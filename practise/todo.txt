@@ -1,0 +1,4 @@
+1. try to adjust the grid sizes so as to not occyupy more than the page size.
+2. look into loader-host.
+3. load the items from a .json file.
+4. side bar which contains list of items.
